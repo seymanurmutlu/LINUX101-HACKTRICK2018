@@ -39,7 +39,7 @@ man komut
 ~~~
 Bilgi edinmek istediğimiz komutun nasıl kullanıldığı ve komutun ne işe yaradığı gibi bilgilerin olduğunu gösterir. Komutun sahip olduğu tüm parametreleri ve anlamlarını açıklar. Bu komut sayesinde Linux hakkında hiçbir bilgisi olmayan kişiler rahatlıkla Linux kullanabilir.
 ~~~bash
-History 
+history 
 ~~~
 Daha onceden yazdığımız bütün komutları gösterir.
 ~~~bash
@@ -104,7 +104,7 @@ rm -r dizin_adi
 İçerisi dolu olan bir dizini silmek için -r parametresini kullanırız. 
 
 ~~~bash
-Rm sinif*
+rm sinif*
 ~~~
 sinifla başlayanların hepsini siler.
 
